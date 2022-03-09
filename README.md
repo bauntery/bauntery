@@ -26,3 +26,13 @@ A TIER
 https://github.com/Findomain/Findomain
 https://github.com/SilverPoision/Rock-ON
 https://github.com/epi052/recon-pipeline
+
+S TIER
+
+https://core.intrigue.io/
+https://assetnote.io/
+https://github.com/jaeles-project/jaeles
+https://github.com/j3ssie/osmedeus
+https://huntersuite.io/
+https://github.com/yogeshojha/rengine
+http://offensiveai.com/bug-bounty-automation-toolkit/

@@ -16,3 +16,7 @@ https://github.com/0xspade/Automated-Scanner
 https://github.com/shmilylty/OneForAll
 https://github.com/SolomonSklash/chomp-scan
 https://github.com/TypeError/domained
+https://github.com/screetsec/Sudomy
+https://github.com/devanshbatham/Gorecon
+https://github.com/skynet0x01/tugarecon
+https://github.com/s0md3v/Photon
